@@ -1,0 +1,8 @@
+{
+  "name": "Remix PersonaAI - Asistente con Personalidades",
+  "description": "Plataforma de asistente de inteligencia artificial con personalidades personalizables, chats interactivos, comunidad y soporte para proveedores OpenRouter y Ollama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
